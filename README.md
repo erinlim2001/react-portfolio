@@ -5,7 +5,7 @@
 The purpose of this project was to create a portfolio of work to showcase my skills and talents to employers looking to fill a part-time or full-time position. Effective portfolios can highlight strong work and thought processes. 
 
 ## Links
-- [Deployed Website](https://erinlim2001.github.io/updated-portfolio/)
+- [Deployed Website](https://erinlim2001.github.io/react-portfolio/)
 - [Code Repository](https://github.com/erinlim2001/react-portfolio)
 
 ## Installation
@@ -22,10 +22,6 @@ Desktop Screen:
 ![Erin Lim Portfolio](./assets/images/2.png)
 ![Erin Lim Portfolio](./assets/images/3.png)
 
-## Credits
-
-### Tutorials Used
-* [https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp](https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp)
 
 ## License
 
