@@ -18,10 +18,9 @@ The purpose of this project was to create a portfolio of work to showcase my ski
 You will be able to view the website on a desktop web browser once it is deployed.
 
 Desktop Screen:
-![Erin Lim Portfolio](./assets/images/desktopview.gif)
-
-Narrow Screen:
-![Erin Lim Portfolio](./assets/images/responsiveview.gif)
+![Erin Lim Portfolio](./assets/images/1.png)
+![Erin Lim Portfolio](./assets/images/2.png)
+![Erin Lim Portfolio](./assets/images/3.png)
 
 ## Credits
 
