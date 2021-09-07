@@ -14,13 +14,22 @@ const Navbar = () => {
           <a className="nav-link active" aria-current="page" href="#">Home</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">About Me</a>
+          <a className="nav-link" href="#aboutMe">About Me</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Projects</a>
+          <a className="nav-link" href="#work">Projects</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Contact</a>
+          <a className="nav-link" href="#contactMe">Contact</a>
+        </li>
+        <li className="nav-item">
+          <a className="nav-link" href="https://docs.google.com/document/d/1lnHHNazk5CWNKvR1ab-SO1DLRgPpIu2v/edit?usp=sharing&ouid=103374442675887078830&rtpof=true&sd=true">Resume</a>
+        </li>
+        <li className="nav-item">
+          <a className="nav-link" href="https://www.linkedin.com/in/erinlim123">LinkedIn</a>
+        </li>
+        <li className="nav-item">
+          <a className="nav-link" href="https://github.com/erinlim2001/Erin-Lim-Portfolio">Portfolio Code</a>
         </li>
         
       </ul>

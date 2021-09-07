@@ -36,3 +36,47 @@
     transform: rotate(360deg);
   }
 }
+
+.profile {
+  width: 200px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.weather {
+  width: 80%;
+}
+
+.code {
+  width: 80%;
+}
+#contact-links {
+  margin: 20px;
+}
+
+#contact-links a {
+  padding: 20px;
+  color: lightcoral;
+}
+footer {
+  padding: 20px;
+  text-align: center;
+  background: lightcoral;
+  color: #fff;
+}
+
+.longRides {
+  width: 80%;
+}
+
+.ticket {
+  width: 80%;
+}
+
+.eridium {
+  width: 80%;
+}
+
+.fitness {
+  width: 80%;
+}
